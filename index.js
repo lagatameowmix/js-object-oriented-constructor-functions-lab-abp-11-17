@@ -13,4 +13,8 @@ function Driver(name, age, experience){
 function PickupLocation(address, city){
   this.address = address
   this.city = city
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c284184a1b9a60b6fb3c8c1702520e3ec6e0175a
